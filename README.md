@@ -1,4 +1,3 @@
-<p align="center"><img src="assets/logo_afchem_sofaco.png" alt="Logo AF-CHEM SOFACO" width="220"></p>
 
 # PhytoTrace – AF-CHEM SOFACO
 
@@ -42,20 +41,13 @@ Planning officiel du module, sur quatre mois :
 ```
 AFCHEM/
 ├── README.md
-├── assets/
-│   └── logo_afchem_sofaco.png
+|
 ├── cadrage/
-│   ├── cahier_des_charges.docx
-│   └── cahier_des_charges.pdf
-└── modelisation/
-    ├── diagramme de classes
-    ├── diagramme de cas d'utilisation
-    ├── diagramme de séquence
-    └── diagramme d'activité
+    └── cahier_des_charges.docx
+
 ```
 
 ## Liens utiles
 
 - Site de l'entreprise : https://afchemsofaco.com
 - Maquette Figma : *à ajouter*
-- Tableau Trello : *à ajouter*
